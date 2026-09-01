@@ -1,0 +1,29 @@
+name,surname,contact_number,email,sa_citizen,id_number,province,age,gender,race,differently_abled,highest_qualification,skills,employed,employment_sector,certifications,consent
+Wasim,Kazi,748352552,Wasimkazi@tutamail.com,Yes,9707226668086,KwaZulu-Natal,25-34,Male,Asian,No,Diploma,Computer,Yes,IT & Telecommunications,Azure Fundamentals,Yes
+Noura,Zayed,836063081,noura.zayed1999@outlook.com,Yes,9903214674083,North-West,25-34,Female,Black,No,Bachelor's Degree,Social media,No,,Azure Fundamentals,Yes
+Tamer,Khalid,725405587,tamer.khalid99@outlook.com,Yes,9907145298086,Free State,25-34,Male,Black,No,Diploma,Data,Yes,"Marketing, PR & Media",Azure Fundamentals,Yes
+Leila,Nadir,728057548,leila.nadir98@outlook.com,Yes,9804091053088,Gauteng,25-34,Female,Black,No,Bachelor's Degree,Coding,Self-employed,Other,Azure Fundamentals,Yes
+Salma,Odeh,794324210,salma.odeh97@outlook.com,Yes,9710050967087,Western cape,25-34,Female,Black,No,Bachelor's Degree,Computer,Yes,"Auditing, Consulting, Legal & Professional Services",Azure Fundamentals,Yes
+Sami,Jamal,811870731,sami.jamal96@outlook.com,Yes,9602287238087,KwaZulu-Natal,25-34,Male,Black,No,Postgraduate Degree,Data,Yes,"Banking, Investment & Finance",Azure Fundamentals,Yes
+Nabil,Hamdan,853807414,nabil.hamdan97@outlook.com,Yes,9708168679081,Mpumalanga,25-34,Male,Black,No,Bachelor's Degree,Coding,Yes,IT & Telecommunications,Azure Fundamentals,Yes
+Yasmine,Darwish,719254695,yasmine.darwish99@outlook.com,Yes,9912034801081,Gauteng,25-34,Female,Black,No,Diploma,Social media,No,,Azure Fundamentals,Yes
+Mostafa,Gamal,799256861,mostafa.gamal19971@outlook.com,Yes,9705206170081,Limpopo,25-34,Male,Black,No,Bachelor's Degree,Data,Yes,E-commerce & Retail,Azure Fundamentals,Yes
+Sara,Adel,813192301,sara.adel1999@outlook.com,Yes,9909114704086,Eastern Cape,25-34,Female,Black,No,Diploma,Computer,No,,Azure Fundamentals,Yes
+Omar,Hisham,712283461,omar.hisham97@outlook.com,Yes,9701259726085,Gauteng,25-34,Male,Black,No,Bachelor's Degree,Coding,Yes,IT & Telecommunications,Azure Fundamentals,Yes
+Mariam,Fathy,825121452,mariam.fathy2000@outlook.com,Yes,4153870086,North-West,25-34,Female,Black,No,Diploma,Social media,No,,Azure Fundamentals,Yes
+Dana,Alhajri,729013576,dana.alhajri2000@outlook.com,Yes,7084144083,Free State,25-34,Female,Black,No,Bachelor's Degree,Data,Self-employed,Other,Azure Fundamentals,Yes
+Bader,Nasser,835367152,bader.nasser98@outlook.com,Yes,9806195602082,Gauteng,25-34,Male,Black,No,Bachelor's Degree,Coding,Yes,"Banking, Investment & Finance",Azure Fundamentals,Yes
+Salem,Khalaf,797232868,salem.khalaf96@outlook.com,Yes,9611306193082,Western cape,25-34,Male,Black,No,Postgraduate Degree,Computer,Yes,"Diplomacy, Government & Non-Profit",Azure Fundamentals,Yes
+Mohammed,Busaidi,784453270,mohammed.busaidi97@outlook.com,Yes,9703078820081,KwaZulu-Natal,25-34,Male,Black,No,Bachelor's Degree,Data,Yes,E-commerce & Retail,Azure Fundamentals,Yes
+Ahmed,Hinai,743814935,ahmed.hinai98@outlook.com,Yes,9808238292087,Mpumalanga,25-34,Male,Black,No,Diploma,Coding,No,,Azure Fundamentals,Yes
+Said,Balushi,785267739,said.balushi96@outlook.com,Yes,9605125896081,Limpopo,25-34,Male,Black,No,Bachelor's Degree,Computer,Yes,IT & Telecommunications,Azure Fundamentals,Yes
+Fatma,Zadjali,727837640,fatma.zadjali99@outlook.com,Yes,9902170052086,Gauteng,25-34,Female,Black,No,Diploma,Social media,No,,Azure Fundamentals,Yes
+Mahesh,Vikhe,748981422,mahesh.vikhe@outlook.com,Yes,9810045080085,Gauteng,25-34,Male,Asian,No,Bachelor's Degree,Data,Yes,IT & Telecommunications,Azure Fundamentals,Yes
+Mahesh,Vikhe,798400880,mahesh.vikhe@yahoo.com,Yes,9810048477080,Western cape,25-34,Male,Asian,No,Bachelor's Degree,Coding,Yes,IT & Telecommunications,Azure Fundamentals,Yes
+Rohan,Mehta,831560208,rohan.mehta1998@yahoo.com,Yes,9806145960085,KwaZulu-Natal,25-34,Male,Asian,No,Bachelor's Degree,Computer,Yes,"Banking, Investment & Finance",Azure Fundamentals,Yes
+Sneha,Kapoor,828578002,sneha.kapoor00@yahoo.com,Yes,3221702081,Gauteng,25-34,Female,Asian,No,Diploma,Social media,No,,Azure Fundamentals,Yes
+Vikram,Sharma,763971248,vikram.sharma99@outlook.com,Yes,9909059553084,Mpumalanga,25-34,Male,Asian,No,Bachelor's Degree,Data,Yes,E-commerce & Retail,Azure Fundamentals,Yes
+Aditi,Verma,822525418,aditi.verma2001@outlook.com,Yes,101181815081,Eastern Cape,25-34,Female,Asian,No,Diploma,Coding,No,,Azure Fundamentals,Yes
+Kunal,Singh,744811660,kunal.singh97@outlook.com,Yes,9711279457082,Free State,25-34,Male,Asian,No,Bachelor's Degree,Computer,Yes,IT & Telecommunications,Azure Fundamentals,Yes
+Priya,Desai,844123582,priya.desai00@outlook.com,Yes,8103194083,Gauteng,25-34,Female,Asian,No,Diploma,Social media,No,,Azure Fundamentals,Yes
+Arjun,Nair,713625238,arjun.nair98@outlook.com,Yes,9804308409081,North-West,25-34,Male,Asian,No,Bachelor's Degree,Data,Yes,"Banking, Investment & Finance",Azure Fundamentals,Yes
